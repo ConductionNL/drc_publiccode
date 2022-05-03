@@ -27,6 +27,27 @@
           "indicatieGebruiksrecht": true
         }
       }
-    ]      
+    ],
+    "GebruiksRecht":[
+      {
+        "properties": {
+          "url": "http://example.com",
+          "informatieobject": "http://example.com",
+          "startdatum": "2019-08-24T14:15:22Z",
+          "einddatum": "2019-08-24T14:15:22Z",
+          "omschrijvingVoorwaarden": "string"
+        }
+      }
+    ]    ,
+    "ObjectInformatieObject":[
+      {
+        "properties": {
+          "url": "http://example.com",
+          "informatieobject": "http://example.com",
+          "object": "http://example.com",
+          "objectType": "besluit"
+        }
+      }
+    ]            
   }
 }
