@@ -1,0 +1,32 @@
+{
+  "openapi": "3.0.0",
+  "collection": "https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/zrc/1.2.x/openapi.yaml",
+  "schemas": {
+    "EnkelvoudigInformatieObject":[
+      {
+        "properties": {
+          "url": "http://example.com",
+          "identificatie": "string",
+          "bronorganisatie": "string",
+          "creatiedatum": "2019-08-24",
+          "titel": "string",
+          "vertrouwelijkheidaanduiding": "openbaar",
+          "auteur": "string",
+          "status": "in_bewerking",
+          "formaat": "string",
+          "taal": "str",
+          "versie": 0,
+          "beginRegistratie": "2019-08-24T14:15:22Z",
+          "bestandsnaam": "string",
+          "inhoud": "http://example.com",
+          "bestandsomvang": 9223372036854776000,
+          "link": "http://example.com",
+          "beschrijving": "string",
+          "ontvangstdatum": "2019-08-24",
+          "verzenddatum": "2019-08-24",
+          "indicatieGebruiksrecht": true
+        }
+      }
+    ]      
+  }
+}

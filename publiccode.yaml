@@ -20,7 +20,9 @@ description:
     shortDescription: "Een API om een Documenten API (DRC) te benaderen."
     documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/drc/1.1.x/openapi.yaml'
     apiDocumentation: 'https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/drc/1.1.x/openapi.yaml'
+    testDataLocation: 'https://raw.githubusercontent.com/ConductionNL/drc_publiccode/main/data/drc.json'
   en:
     shortDescription: "An API to connect to documents"
     documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/drc/1.1.x/openapi.yaml'
     apiDocumentation: 'https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/drc/1.1.x/openapi.yaml'
+    testDataLocation: 'https://raw.githubusercontent.com/ConductionNL/drc_publiccode/main/data/drc.json'
