@@ -5,6 +5,7 @@
     "EnkelvoudigInformatieObject":[
       {
         "properties": {
+          "id": "9b9c8cab-d3d8-44b3-984e-b5bfffc69b27",
           "url": "http://example.com",
           "identificatie": "string",
           "bronorganisatie": "string",
@@ -32,7 +33,7 @@
       {
         "properties": {
           "url": "http://example.com",
-          "informatieobject": "http://example.com",
+          "informatieobject": "http://localhost/api/enkelvoudiginformatieobjecten/9b9c8cab-d3d8-44b3-984e-b5bfffc69b27",
           "startdatum": "2019-08-24T14:15:22Z",
           "einddatum": "2019-08-24T14:15:22Z",
           "omschrijvingVoorwaarden": "string"
@@ -43,7 +44,7 @@
       {
         "properties": {
           "url": "http://example.com",
-          "informatieobject": "http://example.com",
+          "informatieobject": "http://localhost/api/enkelvoudiginformatieobjecten/9b9c8cab-d3d8-44b3-984e-b5bfffc69b27",
           "object": "http://example.com",
           "objectType": "besluit"
         }
